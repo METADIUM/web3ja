@@ -8,4 +8,4 @@ Forked web3j:4.0.0-android.
 4.0.0-android of web3j is based java 1.6.
 Otherwise 4.1.0-android of web34j is based java 1.8.
 
-Forked `webj3 <https://github.com/web3j/web3j>`
+Forked `Webj3 <https://github.com/web3j/web3j>`_.
