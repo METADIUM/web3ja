@@ -27,7 +27,7 @@ Maven
    <dependency>
        <groupId>com.github.METADIUM.web3ja</groupId>
        <artifactId>core</artifactId>
-       <version>4.0.0-android</version>
+       <version>4.0.1-android</version>
    </dependency>
 
 
@@ -43,6 +43,6 @@ Gradle
    }
 
 
-   implementation 'com.github.METADIUM.web3ja:core:4.0.0-android'
+   implementation 'com.github.METADIUM.web3ja:core:4.0.1-android'
 
 
